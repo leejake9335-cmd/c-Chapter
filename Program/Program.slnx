@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Class 2th (Class)/Class 2th (Class).vcxproj" />
+  <Project Path="../Class1th (Stream)/Class1th (Stream).vcxproj" />
+  <Project Path="Program.vcxproj" />
+</Solution>
