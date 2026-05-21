@@ -1,0 +1,15 @@
+#include "Emerald.h"
+Emerald::Emerald()
+{
+	name = "에메랄드";
+	weight = 27.5f;
+	Transparency = 0.8f;
+}	
+
+
+void Emerald::Describe()
+{
+	cout << "Name : " << name << endl;
+	cout << "Weight : " << weight << "g" << endl;
+	cout << "Transparency : " << Transparency << endl;
+}

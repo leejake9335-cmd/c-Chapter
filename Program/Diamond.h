@@ -1,0 +1,15 @@
+#pragma once
+#include "Material.h"
+class Diamond : public Material
+{
+protected:
+	float hardness;
+public:
+
+	Diamond();
+	
+	void Describe();
+	
+	
+};
+
