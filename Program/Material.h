@@ -5,9 +5,15 @@ using namespace std;
 class Material
 {
 protected:
+	
 	const char* name;
+	
 	float weight;
+
 public:
+
 	void Describe();
+
+	virtual void Promote();
 };
 

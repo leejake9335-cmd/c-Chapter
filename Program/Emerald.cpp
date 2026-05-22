@@ -13,3 +13,8 @@ void Emerald::Describe()
 	cout << "Weight : " << weight << "g" << endl;
 	cout << "Transparency : " << Transparency << endl;
 }
+
+void Emerald::Promote()
+{
+	cout << "에메랄드가 강화되었습니다." << endl;
+}

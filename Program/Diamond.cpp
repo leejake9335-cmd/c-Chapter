@@ -12,3 +12,8 @@ void Diamond::Describe()
 	cout << "Weight : " << weight << "g" << endl;
 	cout << "Hardness : " << hardness << endl;
 }
+
+void Diamond::Promote()
+{
+	cout << "다이아몬드가 강화되었습니다." << endl;
+}

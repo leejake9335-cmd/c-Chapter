@@ -3,11 +3,15 @@
 class Emerald : public Material
 {
 protected:
+	
 	float Transparency;
+
 public:
 	Emerald();
-	void Describe();
 
+	void Describe();
+	
+	virtual void Promote() override;
 
 };
 

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Diamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Diamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Platinum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Platinum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Platinum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Platinum.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Emerald.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Emerald.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Diamond.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -15,20 +27,16 @@
       "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Emerald.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Emerald.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Emerald.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Diamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Diamond.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Publisher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -63,84 +71,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Platinum.cpp",
+              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Platinum.cpp",
+              "RelativeDocumentMoniker": "Platinum.cpp",
+              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Platinum.cpp",
+              "RelativeToolTip": "Platinum.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-22T10:33:04.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Platinum.h",
+              "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Platinum.h",
+              "RelativeDocumentMoniker": "Platinum.h",
+              "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Platinum.h",
+              "RelativeToolTip": "Platinum.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-22T10:28:11.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Diamond.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Diamond.cpp",
               "RelativeDocumentMoniker": "Diamond.cpp",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Diamond.cpp",
               "RelativeToolTip": "Diamond.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-21T09:24:30.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Emerald.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Emerald.cpp",
               "RelativeDocumentMoniker": "Emerald.cpp",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Emerald.cpp",
               "RelativeToolTip": "Emerald.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-21T09:24:29.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Material.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Material.cpp",
               "RelativeDocumentMoniker": "Material.cpp",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Material.cpp",
               "RelativeToolTip": "Material.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-21T09:24:25.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Diamond.h",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Diamond.h",
               "RelativeDocumentMoniker": "Diamond.h",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Diamond.h",
               "RelativeToolTip": "Diamond.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-21T09:21:03.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Emerald.h",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Emerald.h",
               "RelativeDocumentMoniker": "Emerald.h",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Emerald.h",
               "RelativeToolTip": "Emerald.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-21T09:19:58.766Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Material.h",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Material.h",
               "RelativeDocumentMoniker": "Material.h",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Material.h",
               "RelativeToolTip": "Material.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-05-21T09:18:07.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Publisher.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Publisher.cpp",
               "RelativeDocumentMoniker": "Publisher.cpp",
@@ -148,12 +182,11 @@
               "RelativeToolTip": "Publisher.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-20T10:03:34.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T10:03:34.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Publisher.h",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Publisher.h",
               "RelativeDocumentMoniker": "Publisher.h",
@@ -166,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Souce.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class4th (Inheritance)\\Souce.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Inheritance)\\Souce.cpp",
@@ -174,12 +207,11 @@
               "RelativeToolTip": "..\\Class4th (Inheritance)\\Souce.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAgwCgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-20T05:52:52.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T05:52:52.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -187,12 +219,11 @@
               "RelativeToolTip": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "ViewState": "AgIAAHMAAAAAAAAAAAAgwH0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-20T05:41:20.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T05:41:20.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
@@ -204,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class 2th (Class)\\Source.cpp",
@@ -216,13 +247,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-15T09:15:59.027Z",
               "EditorCaption": ""
