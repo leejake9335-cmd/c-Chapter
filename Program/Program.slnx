@@ -7,5 +7,6 @@
   <Project Path="../Class1th (Stream)/Class1th (Stream).vcxproj" Id="fdc2ed86-a892-4c2a-92ec-2c28f229ddf2" />
   <Project Path="../Class3th (Constructor &amp; Destructor)/Class3th (Constructor &amp; Destructor).vcxproj" Id="9934ea97-b689-4274-b1fc-3ff9f0ab548c" />
   <Project Path="../Class4th (Inheritance)/Class4th (Inheritance).vcxproj" Id="a59e55c2-2b91-4740-8439-f9ca03ff6fb2" />
+  <Project Path="../Class5th (Polymorphism)/Class5th (Polymorphism).vcxproj" Id="d306130b-728b-4ded-9f7d-9cb812e4f751" />
   <Project Path="Program.vcxproj" Id="54aa3ac6-1eae-48f2-8259-9745b4f78a32" />
 </Solution>
