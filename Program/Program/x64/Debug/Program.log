@@ -1,5 +1,2 @@
-﻿  Antidote.cpp
-  Polaroid.cpp
-  Program.cpp
-Program.obj : error LNK2019: "public: __cdecl Item::Item(void)" (??0Item@@QEAA@XZ)"public: __cdecl Antidote::Antidote(void)" (??0Antidote@@QEAA@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\leeja\OneDrive\Desktop\c-Chapter\Program\x64\Debug\Program.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
+﻿  Position.cpp
+  Program.vcxproj -> C:\Users\leeja\OneDrive\Desktop\c-Chapter\Program\x64\Debug\Program.exe
