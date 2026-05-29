@@ -141,7 +141,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Antidote.cpp" />
-    <ClCompile Include="Class 6th (Abstract).cpp" />
+    <ClCompile Include="Sorce.cpp" />
     <ClCompile Include="Item.cpp" />
     <ClCompile Include="Polaroid.cpp" />
   </ItemGroup>
