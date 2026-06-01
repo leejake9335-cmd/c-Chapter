@@ -10,5 +10,6 @@
   <Project Path="../Class4th (Inheritance)/Class4th (Inheritance).vcxproj" Id="a59e55c2-2b91-4740-8439-f9ca03ff6fb2" />
   <Project Path="../Class5th (Polymorphism)/Class5th (Polymorphism).vcxproj" Id="d306130b-728b-4ded-9f7d-9cb812e4f751" />
   <Project Path="../Class7th (Encapsulation)/Class7th (Encapsulation).vcxproj" Id="e87dc1e0-a40f-431d-b9e8-48ef624d6071" />
+  <Project Path="../Class8th (Template)/Class8th (Template).vcxproj" Id="b50f3308-7a6c-46aa-a1e2-de2ea94439a4" />
   <Project Path="Program.vcxproj" Id="54aa3ac6-1eae-48f2-8259-9745b4f78a32" />
 </Solution>
