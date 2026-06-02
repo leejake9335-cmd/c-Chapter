@@ -1,8 +1,5 @@
-﻿  Image.cpp
+﻿  Character.cpp
+  Image.cpp
   Program.cpp
-\Image.cpp(1,1): error C1083: 컴파일러 중간 파일 파일을 열 수 없습니다. 'Program\x64\Debug\Program.pch': Invalid argument
-  (소스 파일 '/Image.cpp'을(를) 컴파일하는 중)
-  
-\Program.cpp(1,1): error C1083: 컴파일러 중간 파일 파일을 열 수 없습니다. 'Program\x64\Debug\Program.pch': Invalid argument
-  (소스 파일 '/Program.cpp'을(를) 컴파일하는 중)
-  
+  Resource.cpp
+  Program.vcxproj -> C:\Users\Administrator\Desktop\c-Chapter\Program\x64\Debug\Program.exe
