@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{54AA3AC6-1EAE-48F2-8259-9745B4F78A32}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{09842C48-AB89-456D-9B35-D6B005574B0A}|..\\Class11th (Container Adapter)\\Class11th (Container Adapter).vcxproj|C:\\Users\\vip\\Desktop\\c-Chapter\\Class11th (Container Adapter)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D306130B-728B-4DED-9F7D-9CB812E4F751}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Packet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D306130B-728B-4DED-9F7D-9CB812E4F751}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D306130B-728B-4DED-9F7D-9CB812E4F751}|..\\Class5th (Polymorphism)\\Class5th (Polymorphism).vcxproj|C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Publisher.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F114AB56-F9C8-4E3A-B99B-DC3128362CA2}|..\\Class10th (Linear Container)\\Class10th (Linear Container).vcxproj|C:\\Users\\vip\\Desktop\\c-Chapter\\Class10th (Linear Container)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -61,24 +73,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class10th (Linear Container)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class10th (Linear Container)\\Source.cpp",
-              "ToolTip": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class10th (Linear Container)\\Source.cpp",
-              "RelativeToolTip": "..\\Class10th (Linear Container)\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-04T09:32:01.362Z",
+              "DocumentIndex": 2,
+              "Title": "Packet.h",
+              "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Packet.h",
+              "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Packet.h",
+              "ToolTip": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Packet.h",
+              "RelativeToolTip": "..\\Class5th (Polymorphism)\\Packet.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-06-05T09:41:40.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Program\\Program.cpp",
+              "RelativeDocumentMoniker": "Program.cpp",
+              "ToolTip": "C:\\Users\\vip\\Desktop\\c-Chapter\\Program\\Program.cpp",
+              "RelativeToolTip": "Program.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-26T10:35:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class11th (Container Adapter)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class11th (Container Adapter)\\Source.cpp",
+              "ToolTip": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class11th (Container Adapter)\\Source.cpp",
+              "RelativeToolTip": "..\\Class11th (Container Adapter)\\Source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-05T09:38:54.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Source.cpp",
+              "ToolTip": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Source.cpp",
+              "RelativeToolTip": "..\\Class5th (Polymorphism)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-05T09:43:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Publisher.cpp",
+              "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Publisher.cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (Polymorphism)\\Publisher.cpp",
+              "ToolTip": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Publisher.cpp",
+              "RelativeToolTip": "..\\Class5th (Polymorphism)\\Publisher.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-05T09:42:28.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Antidote.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 6th (Abstract)\\Antidote.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 6th (Abstract)\\Antidote.cpp",
@@ -89,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Sorce.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 6th (Abstract)\\Sorce.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 6th (Abstract)\\Sorce.cpp",
@@ -100,20 +164,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Program\\Program.cpp",
-              "RelativeDocumentMoniker": "Program.cpp",
-              "ToolTip": "C:\\Users\\vip\\Desktop\\c-Chapter\\Program\\Program.cpp*",
-              "RelativeToolTip": "Program.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class10th (Linear Container)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class10th (Linear Container)\\Source.cpp",
+              "ToolTip": "C:\\Users\\vip\\Desktop\\c-Chapter\\Class10th (Linear Container)\\Source.cpp",
+              "RelativeToolTip": "..\\Class10th (Linear Container)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-26T10:35:26.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-04T09:32:01.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Item.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 6th (Abstract)\\Item.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 6th (Abstract)\\Item.cpp",
@@ -124,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Souce.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class7th (Encapsulation)\\Souce.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class7th (Encapsulation)\\Souce.cpp",
@@ -135,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Position.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class7th (Encapsulation)\\Position.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class7th (Encapsulation)\\Position.cpp",
@@ -146,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class8th (Template)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class8th (Template)\\Source.cpp",
@@ -157,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Factorial.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class8th (Template)\\Factorial.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class8th (Template)\\Factorial.cpp",
@@ -168,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Image.h",
               "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Program\\Image.h",
               "RelativeDocumentMoniker": "Image.h",
@@ -180,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Polaroid.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 6th (Abstract)\\Polaroid.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class 6th (Abstract)\\Polaroid.cpp",
@@ -191,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "stdafx.h",
               "DocumentMoniker": "C:\\Users\\vip\\Desktop\\c-Chapter\\Program\\stdafx.h",
               "RelativeDocumentMoniker": "stdafx.h",
@@ -203,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class1th (Stream)\\Source.cpp",
@@ -214,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Diamond.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Diamond.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Diamond.cpp",
@@ -225,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Diamond.h",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Diamond.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Diamond.h",
@@ -236,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\leeja\\OneDrive\\Desktop\\c-Chapter\\Class5th (Polymorphism)\\Source.cpp",

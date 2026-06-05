@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include "Publisher.h"
+#include "Packet.h"
 #include "Emerald.h"
 #include "Diamond.h"
 #include "Platinum.h"
@@ -17,11 +17,11 @@ int main()
     // 같은 이름의 함수를 매개 변수의 자료형과 매개 변수의
     // 수로 구분하여 여러 개를 선언할 수 있는 기능입니다.
 
-    // Publisher publisher;
-    // 
-    // publisher.Send(144);
-    // publisher.Send("This program cannot be executed.");
-    // publisher.Send("Identify the issue frequently.", 60);
+     Packet Packet;
+     
+     Packet.Send(144);
+     Packet.Send("This program cannot be executed.");
+     Packet.Send("Identify the issue frequently.", 60);
 
     // 함수의 오버로딩의 경우 함수의 매개 변수에 전달하는 인수의
     // 형태를 보고 호출하므로, 반환형으로 함수의 오버로딩을 생성할 수 없습니다.
